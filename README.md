@@ -1,2 +1,8 @@
 # shopperstop
-shopperstop Repo
+shoppping lists
+
+Orange
+Grapes
+Apple
+Mango
+Banana
