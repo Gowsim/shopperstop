@@ -1,5 +1,5 @@
 # shopperstop
-shoppping lists
+shopping lists
 
 Orange
 Grapes
